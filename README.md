@@ -1,4 +1,5 @@
 # 👋 Ciao, sono Giuseppe Caiazzo
+![](https://komarev.com/ghpvc/?username=giuseppecai&color=blue)
 
 🎓 Laureando in Informatica presso l'Università degli studi di Salerno  
 💻 Appassionato di sviluppo backend, architetture distribuite e tecnologie cloud  
