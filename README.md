@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Giuseppe Caiazzo
 ![](https://komarev.com/ghpvc/?username=giuseppecai&color=blue)
 
-🎓 Laureando in Informatica presso l'Università degli studi di Salerno  
+🎓 Neolaureato triennale in Informatica presso l'Università degli studi di Salerno  
 💻 Appassionato di sviluppo backend, architetture distribuite e tecnologie cloud  
 🚀 In cerca di opportunità per crescere come sviluppatore software
 
@@ -10,11 +10,11 @@
 ## 🛠️ Tecnologie con cui ho lavorato
 
 **Linguaggi di programmazione**  
-Java · C · C# · SQL · JavaScript
+Java · C · SQL · JavaScript
 
 **Framework e strumenti**  
 Spring Boot · Java EE · Android SDK · Unity 3D  
-Docker · Kafka · InfluxDB · MQTT (Mosquitto) · MySQL · Postman · Telegraf
+Docker · InfluxDB · MQTT (Mosquitto) · MySQL · Postman · Grafana
 
 ---
 
