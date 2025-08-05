@@ -23,6 +23,11 @@ Docker · InfluxDB · MQTT (Mosquitto) · MySQL · Postman · Grafana
 - [Progetto Medicale con Docker, MQTT, Kafka, InfluxDB e Grafana](https://github.com/giuseppecai/java-tirocinio-medical-app)  
   Sistema simulato per il monitoraggio di dispositivi medicali, sviluppato durante il mio tirocinio.
 
+- [Progetto biblioteca realizzato con Spring Boot](https://github.com/giuseppecai/library-app)  
+  Applicazione backend per la gestione di una biblioteca, sviluppata come progetto personale.
+  Utilizza Java, Spring Boot, Maven, JPA, MySQL, e MapStruct per la mappatura tra entity e DTO.
+  Include funzionalità CRUD per autori e libri, con relazione One-To-Many.
+
 ---
 
 ## 📫 Contatti
